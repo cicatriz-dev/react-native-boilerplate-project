@@ -1,0 +1,12 @@
+{
+  "name": "react-native-boilerplate-project",
+  "displayName": "react-native-boilerplate-project",
+  "expo": {
+    "name": "react-native-boilerplate-project",
+    "slug": "react-native-boilerplate-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
